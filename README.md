@@ -102,10 +102,4 @@ This repository does not include a centralized test runner by default. If you ad
 ## License
 This README does not specify a license. Add a `LICENSE` file to define licensing terms for the project.
 
----
-If you'd like, I can:
-- add a `.env.example` with typical variable names,
-- add scripts to `package.json` to standardize dev commands, or
-- generate a short architecture diagram and README badges.
 
-Created: [README.md](README.md)
